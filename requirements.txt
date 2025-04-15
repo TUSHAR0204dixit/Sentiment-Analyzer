@@ -3,3 +3,5 @@ textblob
 tweepy
 pandas
 numpy
+plotly
+
