@@ -1,4 +1,5 @@
 streamlit
 textblob
+tweepy
 pandas
 numpy
